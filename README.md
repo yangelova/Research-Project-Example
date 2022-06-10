@@ -1,2 +1,2 @@
-# Research_Project_Template
-This is a template repository for the Research Project course (CSE3000). 
+# Research Project Example Repository 
+This is an example repository for the Research Project course (CSE3000). 
